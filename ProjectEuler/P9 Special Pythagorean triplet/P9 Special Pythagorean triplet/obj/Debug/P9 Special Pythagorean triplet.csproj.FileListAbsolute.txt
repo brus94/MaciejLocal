@@ -1,0 +1,7 @@
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\P9 Special Pythagorean triplet.exe.config
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\P9 Special Pythagorean triplet.exe
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\bin\Debug\P9 Special Pythagorean triplet.pdb
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\P9 Special Pythagorean triplet.csprojAssemblyReference.cache
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\P9 Special Pythagorean triplet.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\P9 Special Pythagorean triplet.exe
+C:\Users\Maciej\source\repos\P9 Special Pythagorean triplet\P9 Special Pythagorean triplet\obj\Debug\P9 Special Pythagorean triplet.pdb

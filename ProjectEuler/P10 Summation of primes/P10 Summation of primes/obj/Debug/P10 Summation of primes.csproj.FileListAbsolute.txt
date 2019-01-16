@@ -1,0 +1,7 @@
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\bin\Debug\P10 Summation of primes.exe.config
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\bin\Debug\P10 Summation of primes.exe
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\bin\Debug\P10 Summation of primes.pdb
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\obj\Debug\P10 Summation of primes.csprojAssemblyReference.cache
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\obj\Debug\P10 Summation of primes.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\obj\Debug\P10 Summation of primes.exe
+C:\Users\Maciej\source\repos\P10 Summation of primes\P10 Summation of primes\obj\Debug\P10 Summation of primes.pdb

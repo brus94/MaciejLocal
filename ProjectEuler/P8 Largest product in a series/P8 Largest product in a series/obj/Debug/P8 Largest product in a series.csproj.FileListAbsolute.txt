@@ -1,0 +1,7 @@
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\bin\Debug\P8 Largest product in a series.exe.config
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\bin\Debug\P8 Largest product in a series.exe
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\bin\Debug\P8 Largest product in a series.pdb
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\obj\Debug\P8 Largest product in a series.csproj.CoreCompileInputs.cache
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\obj\Debug\P8 Largest product in a series.exe
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\obj\Debug\P8 Largest product in a series.pdb
+C:\Users\Maciej\source\repos\P8 Largest product in a series\P8 Largest product in a series\obj\Debug\P8 Largest product in a series.csprojAssemblyReference.cache
